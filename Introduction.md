@@ -10,7 +10,7 @@ This type of analystic extracts knownledge from past data bases, to understand p
 
 [What is Descriptive Analytics | Data Analytics | Techcanvass (youtube.com)](https://www.youtube.com/watch?v=K1a9oSybtm4)
 
-![Untitled](Untitled.png)
+<img align="center" src="https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/Untitled.png"/>
 
 - **Descriptive Analytics**
 
@@ -59,7 +59,7 @@ Define what kind of data i will collect is also important since it can be:
 
 ### **Data collection method**
 
-![Untitled](Untitled%201.png)
+<img align="center" src="https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/Untitled%201.png"/>
 
 ### **Data collection procedures**
 
@@ -106,7 +106,7 @@ basically the creation of a data
 
 ### Exploration
 
-![Untitled](Untitled%202.png)
+<img align="center" src="https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/Untitled%202.png"/>
 
 > Typically, this exploration process involves discerning patterns, identifying anomalies, examining underlying structures, and testing hypothesism which often gets accomplished via descriptive statistics, visual methods, or sophisticated algorithms.
 > 
@@ -138,131 +138,111 @@ Other common types of multivariate graphics include:
 - Heat map, which is a graphical representation of data where values are depicted by color.
 
 ### **Visualization**
+<img align="center" src="https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/Captura_de_tela_2024-04-29_144137.png"/>
 
-![Captura de tela 2024-04-29 144137.png](Captura_de_tela_2024-04-29_144137.png)
 
 > Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics and even animations. These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.
 > 
 
-![1_Jlk6gxYnZx4E2WIYZ8b_9w.webp](1_Jlk6gxYnZx4E2WIYZ8b_9w.webp)
+<img align="center" src="https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/Captura_de_tela_2024-04-29_144137.png"/>
 
 • **Line charts and area charts:** These visuals show change in one or more quantities by plotting a series of data points over time and are frequently used within predictive analytics. Line graphs utilize lines to demonstrate these changes while area charts connect data points with line segments, stacking variables on top of one another and using color to distinguish between variables.
 
-![download.jpg](download.jpg)
+<img align="center" src="https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/download.jpg"/>
+
 
 • **Histograms:** This graph plots a distribution of numbers using a bar chart (with no spaces between the bars), representing the quantity of data that falls within a particular range. This visual makes it easy for an end user to identify outliers within a given dataset.
 
-![download.jpg](download%201.jpg)
+<img align="center" src="https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/download%201.jpg"/>
+
 
 • **Tree maps,** which display hierarchical data as a set of nested shapes, typically rectangles. Treemaps are great for comparing the proportions between categories via their area size.
 
-![Treemap-with-measure-name-labels.png](Treemap-with-measure-name-labels.png)
+<img align="center" src="https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/Treemap-with-measure-name-labels.png"/>
 
 • **Tables:** This consists of rows and columns used to compare variables. Tables can show a great deal of information in a structured way, but they can also overwhelm users that are simply looking for high-level trends.
 
-• **Pie charts and stacked bar charts:** These graphs are divided into sections that represent parts of a whole. They provide a simple way to organize data and compare the size of each component to one other.
+- **Descriptive Analytics**
 
-![1_w2gc_-EXXv-laoJjlD4zmQ.webp](1_w2gc_-EXXv-laoJjlD4zmQ.webp)
+![Untitled](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/Untitled.png)
 
-• **Scatter plots:** These visuals are beneficial in reveling the relationship between two variables, and they are commonly used within regression data analysis. However, these can sometimes be confused with bubble charts, which are used to visualize three variables via the x-axis, the y-axis, and the size of the bubble.
+### **Visualization**
 
-![download.png](download.png)
+![Captura_de_tela_2024-04-29_144137](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/Captura_de_tela_2024-04-29_144137.png)
 
-• **Heat maps:** These graphical representation displays are helpful in visualizing behavioral data by location. This can be a location on a map, or even a webpage.
+> Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics and even animations. These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.
 
-![download.jpg](download%202.jpg)
+![Captura_de_tela_2024-04-29_144137](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/Captura_de_tela_2024-04-29_144137.png)
 
-### Machine Learning
+• **Line charts and area charts:** These visuals show change in one or more quantities by plotting a series of data points over time and are frequently used within predictive analytics.
 
-![1_VX3CmoAqxCiqYdZTdCCJ4g.webp](1_VX3CmoAqxCiqYdZTdCCJ4g.webp)
+![download](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/download.jpg)
 
-**Links de Apoio:** 
+• **Histograms:** This graph plots a distribution of numbers using a bar chart (with no spaces between the bars), representing the quantity of data that falls within a particular range.
 
-[Guia Inicial em Machine Learning — PARTE 1 | by Clarissa Lima Loures | Medium](https://medium.com/@clarissatech/guia-inicial-em-machine-learning-parte-1-c78702f341ad)
+![download 1](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/download%201.jpg)
 
-[Inteligência Artificial — Uma breve história | by Alex Souza | blog do zouza | Medium](https://medium.com/blog-do-zouza/intelig%C3%AAncia-artificial-uma-breve-hist%C3%B3ria-51ddbac7a3ae)
+• **Pie charts and stacked bar charts:** These graphs are divided into sections that represent parts of a whole.
 
-[O que é Machine Learning?. Machine Learning ou Aprendizado de… | by Alex Souza | blog do zouza | Medium](https://medium.com/blog-do-zouza/o-que-%C3%A9-machine-learning-5e7e98453985)
+![1_w2gc_-EXXv-laoJjlD4zmQ](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/1_w2gc_-EXXv-laoJjlD4zmQ.webp)
 
-[Machine Learning: como funciona, benefícios, tipos e exemplos - FIA](https://fia.com.br/blog/machine-learning/)
+• **Scatter plots:** These visuals are beneficial in revealing the relationship between two variables.
 
-[O que é Machine Learning?  |  Google Cloud](https://cloud.google.com/learn/what-is-machine-learning?hl=pt-br)
+![download](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/download.png)
+
+• **Heat maps:** These graphical representation displays are helpful in visualizing behavioral data by location.
+
+![download 2](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/download%202.jpg)
+
+### **Machine Learning**
+
+![1_VX3CmoAqxCiqYdZTdCCJ4g](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/1_VX3CmoAqxCiqYdZTdCCJ4g.webp)
+
+**Links de Apoio:**
+
+[Guia Inicial em Machine Learning — PARTE 1](https://medium.com/@clarissatech/guia-inicial-em-machine-learning-parte-1-c78702f341ad)
+
+[Inteligência Artificial — Uma breve história](https://medium.com/blog-do-zouza/intelig%C3%AAncia-artificial-uma-breve-hist%C3%B3ria-51ddbac7a3ae)
+
+[O que é Machine Learning?](https://medium.com/blog-do-zouza/o-que-%C3%A9-machine-learning-5e7e98453985)
+
+[Machine Learning: como funciona, benefícios, tipos e exemplos](https://fia.com.br/blog/machine-learning/)
+
+[O que é Machine Learning? | Google Cloud](https://cloud.google.com/learn/what-is-machine-learning?hl=pt-br)
 
 [O que é machine learning? | IBM](https://www.ibm.com/br-pt/topics/machine-learning)
 
-> Machine learning, a subset of artificial intelligence, is an indispensable tool in the hands of a data analyst. It provides the ability to automatically learn, improve from experience and make decisions without being explicitly programmed. In the context of a data analyst, machine learning contributes significantly in uncovering hidden insights, recognising patterns or making predictions based on large amounts of data. Through the use of varying algorithms and models, data analysts are able to leverage machine learning to convert raw data into meaningful information, making it a critical concept in data analysis.
-> 
+> Machine learning, a subset of artificial intelligence, is an indispensable tool in the hands of a data analyst. It provides the ability to automatically learn, improve from experience and make decisions without being explicitly programmed.
 
-In the last few decades, the tech advancedments in memory storage and process made it possible the creation of products like autonomous cars and recomendantion algorythims
+In the last few decades, the tech advancements in memory storage and process made it possible the creation of products like autonomous cars and recommendation algorithms.
 
-![1_0SA448TiLE5Cw4BoSINfGg.webp](1_0SA448TiLE5Cw4BoSINfGg.webp)
+![1_0SA448TiLE5Cw4BoSINfGg](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/1_0SA448TiLE5Cw4BoSINfGg.webp)
 
-**Deep learning and machine learning are not the same thing, while machine learning uses treated data to learn and inform its algorythim, Deep learning can “eat” every kinda of data in its brutal form, being it text, video, audio etc.**
+**Deep learning and machine learning are not the same thing. While machine learning uses treated data to learn and inform its algorithm, deep learning can process raw data, including text, video, and audio.**
 
-*Here are some machine learning examples:*
-
-- *Google* **autonomous** *cars.*
-- *Recomendation algorythims.D*
-- *Know what customers are saying about you on Twitter? Machine learning combined with linguistic rule creation.*
-- *Fraud detection? One of the most obvious and important uses in our world today.*
-
-**Types of algorithms**
-
-![0_ztayi9rBSOGofDHK.webp](0_ztayi9rBSOGofDHK.webp)
+![0_ztayi9rBSOGofDHK](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/0_ztayi9rBSOGofDHK.webp)
 
 - **Supervised machine learning**
     
     > Examples of desired inputs and outputs are presented to the computer, provided by a “teacher”. The goal is to learn a general rule that maps inputs to outputs.
-    > 
-    - [**Regressão Linear**](http://labtrop.ib.usp.br/lib/exe/fetch.php?media=planeco%3Amaterial%3Aaula6_regressaolinear.pdf) ([Código Python](https://colab.research.google.com/drive/1CsZzGVEzN94Zgb1K-khbnkiWp1da7JQt?usp=drive_fs#forceEdit=true&sandboxMode=true))
-    - [**Regressão Logística](https://www.tibco.com/pt-br/reference-center/what-is-logistic-regression)** ([Código R](https://colab.research.google.com/drive/1AXjSzhYyrC3DFkyfCS2zRsiyuNAvPEI5?usp=drive_fs#scrollTo=x80HbVg4W6Nb&forceEdit=true&sandboxMode=true) | [Código Python](https://colab.research.google.com/drive/159RH0KLGBldhf0TLmLaTmy7sbCspj5Um#scrollTo=2B2nDNE81PaH&forceEdit=true&sandboxMode=true))
-    - [**Classificação Naïve Bayes**](https://www.analyticsvidhya.com/blog/2021/11/implementation-of-gaussian-naive-bayes-in-python-sklearn/) ([Código Python](https://colab.research.google.com/drive/1DVzFb8diFMqmsUc97ICtPc3DjRDOrj8u?usp=drive_fs#scrollTo=zMNZeJVOy_ns&forceEdit=true&sandboxMode=true))
-    - [**Árvores de Decisão**](https://blogdozouza.wordpress.com/2019/09/30/decision-trees-e-random-forests-para-classificacao-e-regressao/) ([Código Python](https://colab.research.google.com/drive/1DjjLYneLw7pZxuKNnxFCmSgwgBsauQOS?usp=drive_fs#scrollTo=nkKd7CJlupce&forceEdit=true&sandboxMode=true))
-    - [**Random Forest**](https://blogdozouza.wordpress.com/2019/09/30/decision-trees-e-random-forests-para-classificacao-e-regressao/) ([Código Python](https://colab.research.google.com/drive/1F2QM1KWt-2po0uNfEjc8E1yNfIUuhLtE?usp=drive_fs#scrollTo=nodndxFNORDz&forceEdit=true&sandboxMode=true))
-    - **KNN — [K-Nearest Neighbour](https://blogdozouza.wordpress.com/2019/04/11/introducao-ao-algoritmo-k-nearest-neighbour-codigo-python/)** ([Código Python](https://colab.research.google.com/drive/1DTrp2KKxP8-CTRZXh3xIQpVEG8oSmn-e?usp=drive_fs#scrollTo=WCvmmnYDgHy_&forceEdit=true&sandboxMode=true))
-    - **SVM** — [Support Vector Machine](https://blogdozouza.wordpress.com/2019/04/10/algoritmo-svm-maquina-de-vetores-de-suporte-a-partir-de-exemplos-e-codigo-python-e-r/) ([Código Python](https://colab.research.google.com/drive/1u94z7fefmeADL42fiJ202tvdMBVaOR-c?usp=drive_fs#scrollTo=2X4WVsGj_fxK&forceEdit=true&sandboxMode=true))
-    - [**Redes neurais**](https://medium.com/blog-do-zouza/o-que-%C3%A9-uma-rede-neural-artificial-c%C3%B3digo-python-643181ce39ca) ([Código Python](https://colab.research.google.com/drive/1ImEXPlbdxilWb5FAF2H0uEi6u1SClGyZ?usp=drive_fs#scrollTo=xlyPx3SQKNn4&forceEdit=true&sandboxMode=true) | [Playground](https://playground.tensorflow.org/) )
-    - [**Deep Learning**](https://www.tibco.com/pt-br/reference-center/what-is-deep-learning) ([Código Python](https://colab.research.google.com/drive/1Wt5AXao3eBFi1EfJ50G1F968iAGfRP3A#scrollTo=fxHM9xHMG8iP&amp;forceEdit=true&amp;sandboxMode=true))
-- **Non Supervised**
+
+![0_sAJU95sIfJyDdHXD](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/0_sAJU95sIfJyDdHXD.webp)
+
+- **Unsupervised learning**
     
-    > No labels are given to the learning algorithm, leaving it alone to find structure in the given inputs. Unsupervised learning can be a goal in itself (discovering new patterns in data) or a means to an end
-    > 
-    
-    ![neural net](0_sAJU95sIfJyDdHXD.webp)
-    
-    neural net
-    
-    - [**K-Means —Clustering - Algoritmos de Agrupamento](https://www.devmedia.com.br/data-mining-na-pratica-algoritmo-k-means/4584)** ([Código Python](https://colab.research.google.com/drive/1FHnqGKK-s0DnuXt3f2dpMIrD3FLUYrae?usp=drive_fs#scrollTo=GFKRW4jdVRCD&forceEdit=true&sandboxMode=true))
-    - [Análise de Componentes Principais (PCA)](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_componentes_principais)
-    - Análise de componentes independentes
-    - [Redes neurais](https://blogdozouza.wordpress.com/2019/12/09/como-codificar-uma-rede-neural-com-backpropagation-em-python-do-zero/)
-    - [Deep Learning](https://colab.research.google.com/drive/1Wt5AXao3eBFi1EfJ50G1F968iAGfRP3A#scrollTo=fxHM9xHMG8iP&amp;forceEdit=true&amp;sandboxMode=true)
-    
-- **semi-supervised**
-    
-    > Where the teacher provides an incomplete training signal: a set of training data with some (often several) of the desired outputs missing. Transduction is a special case of this principle, in which the entire set of problem instances is known at the time of learning, but with part of the objectives missing.
-    > 
-    
+    > No labels are given to the learning algorithm, leaving it alone to find structure in the given inputs.
+
 - **Reinforcement Learning**
     
-    ![Untitled](Untitled%203.png)
+    ![Untitled 3](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/Untitled%203.png)
     
-    > Um programa de computador interage com um ambiente dinâmico, em que o programa deve desempenhar determinado objetivo (por exemplo, dirigir um veículo). É fornecido, ao programa, feedback quanto a premiações e punições, na medida em que é navegado o espaço do problema. Outro exemplo de aprendizado por reforço é aprender a jogar um determinado jogo apenas jogando contra um oponente.
-    > 
-- **Other types**
-    - Linear Regression: This algorithm is used to predict numerical values based on a linear relationship between different values. For example, linear regression could be used to predict residential property prices based on historical data for the region.
-    - Logistic regression: This supervised learning algorithm makes predictions for categorical response variables, such as yes/no questions. Logistic regression can be used for applications such as spam classification and quality control on a production line.
-    - Clustering: The use of unsupervised learning algorithms, clustering can identify patterns in the data so that it can be clustered. Computers can help data scientists by identifying differences between data items that humans have missed.
-        
-        ![0_ytxTOMpQuyqO4xZI.webp](0_ytxTOMpQuyqO4xZI.webp)
-        
-    - Decision tree and randon forest
-        
-        ![Untitled](Untitled%204.png)
-        
-        ![0_FxZy9fSg8VcaPhIn.webp](0_FxZy9fSg8VcaPhIn.webp)
-        
-- ***Text and Speech:*** in machine learning we have **Natural Language** Processing which is the hability of machines to read and understeand humans languagens, we also have **ASR** which is the speech to text capacity of machines
-- **Computer vision:** is the machine capability of extracing information from visual sources
-    
-    ![1_TlhEZ0B2T93Zbcu6aVLcug.webp](1_TlhEZ0B2T93Zbcu6aVLcug.webp)
+    > A program interacts with a dynamic environment where it must achieve a specific goal, receiving rewards or penalties based on its actions.
+
+![0_ytxTOMpQuyqO4xZI](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/0_ytxTOMpQuyqO4xZI.webp)
+
+![0_FxZy9fSg8VcaPhIn](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/0_FxZy9fSg8VcaPhIn.webp)
+
+- **Computer vision:** The ability of machines to extract information from visual sources.
+
+![1_TlhEZ0B2T93Zbcu6aVLcug](https://github.com/rafnaves/PraticaDeDados/blob/main/imagens/1_TlhEZ0B2T93Zbcu6aVLcug.webp)
+
